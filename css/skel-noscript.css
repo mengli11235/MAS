@@ -13,7 +13,12 @@
 	}
 
 /* Container */
-
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
 	body {
 		min-width: 1200px;
 	}
